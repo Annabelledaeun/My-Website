@@ -1,0 +1,30 @@
+.pictures {
+    display: flex;
+    flex-direction: row;
+}
+
+#ice-rink {
+    width: 50%;
+    margin: 8px;
+}
+
+#banana-split {
+    width: 50%;
+    margin: 8px;
+}
+.menu-bar {
+    flex-direction: row;
+
+    justify-content: flex;
+
+    background-color:navy;
+    color:paleturquoise;
+    padding: 10px;
+    border: 3px dashed plum;
+
+}
+
+.menu-item{
+    color:paleturquoise;
+    margin: 5px;
+}
