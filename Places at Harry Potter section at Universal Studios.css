@@ -1,0 +1,26 @@
+.pictures {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+}
+
+#honeydukes {
+    width: 50%;
+    height: 250px;
+}
+.menu-bar {
+    flex-direction: row;
+
+    justify-content: flex;
+
+    background-color:navy;
+    color:paleturquoise;
+    padding: 10px;
+    border: 3px dashed plum;
+
+}
+
+.menu-item{
+    color:paleturquoise;
+    margin: 5px;
+}
