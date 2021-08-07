@@ -1,0 +1,42 @@
+.pictures {
+    display: flex;
+    flex-direction: row;
+}
+
+#Buckbeak {
+    width:50%;
+    height: 50%;
+    margin: 10px;
+
+}
+
+#Hagrids-Hut{
+    width: 50%;
+    margin: 10px;
+}
+
+p {
+    color: cornflowerblue;
+}
+
+.menu-bar {
+    flex-direction: row;
+
+    justify-content: flex;
+
+    background-color:navy;
+    color:paleturquoise;
+    padding: 10px;
+    border: 3px dashed plum;
+
+}
+
+.menu-item{
+    color:paleturquoise;
+    margin: 5px;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+}
