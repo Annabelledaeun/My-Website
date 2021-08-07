@@ -1,0 +1,21 @@
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.menu-bar {
+    flex-direction: row;
+
+    justify-content: flex;
+
+    background-color:navy;
+    color:paleturquoise;
+    padding: 10px;
+    border: 3px dashed plum;
+
+}
+
+.menu-item{
+    color:paleturquoise;
+    margin: 5px;
+}
